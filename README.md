@@ -1,4 +1,4 @@
-Hello! I am Jade Fung, a software engineer in San Francisco, CA specializing in full-stack Typescript and applied AI engineering. Some of my hobbies include combat robotics and riding the bus. Here is my progress in San Francisco:
+Hello! I am Jade Fung, a software engineer in San Francisco, CA specializing in full-stack Typescript and applied AI engineering. Some of my hobbies include combat robotics and riding the bus. Here is my progress in San Francisco (Click on the widget to view my progress across every transit agency in the Bay):
 
 [![SFMTA fleet grid from open-transit-tracker](https://wokhouse.github.io/open-transit-tracker/widgets/widget-large-sfmta.svg)](https://wokhouse.github.io/open-transit-tracker)
 
